@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-13">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JavaFX"/>
+	<classpathentry kind="lib" path="C:/Users/pcgou/OneDrive/Documents/TwitterBot/lib/twitter4j-core-4.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pcgou/OneDrive/Documents/TwitterBot/stanford-corenlp-4.0.0/stanford-corenlp-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pcgou/OneDrive/Documents/TwitterBot/stanford-corenlp-4.0.0/stanford-corenlp-4.0.0-models.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pcgou/OneDrive/Documents/TwitterBot/stanford-corenlp-4.0.0/stanford-corenlp-4.0.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pcgou/OneDrive/Documents/TwitterBot/stanford-corenlp-4.0.0/ejml-core-0.38.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pcgou/OneDrive/Documents/TwitterBot/stanford-corenlp-4.0.0/ejml-core-0.38-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pcgou/OneDrive/Documents/TwitterBot/stanford-corenlp-4.0.0/ejml-ddense-0.38.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pcgou/OneDrive/Documents/TwitterBot/stanford-corenlp-4.0.0/ejml-ddense-0.38-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pcgou/OneDrive/Documents/TwitterBot/stanford-corenlp-4.0.0/ejml-simple-0.38.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pcgou/OneDrive/Documents/TwitterBot/stanford-corenlp-4.0.0/ejml-simple-0.38-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pcgou/OneDrive/Documents/TwitterBot/lingpipe-4.1.2-website/lib/junit-4.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pcgou/Downloads/vader-sentiment-analyzer-1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
