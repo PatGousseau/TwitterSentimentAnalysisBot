@@ -97,4 +97,4 @@ fig.text(0.23, 0.21, bend(109, pos), wrap=True, font_properties={'style':'italic
 fig.text(0.23, 0.11, bend(109, neg), wrap=True, font_properties={'style':'italic'}, va='top', size='12', c='#666666')
 
 #plt.show()
-plt.savefig('C:\\Users\\pcgou\\eclipse-workspace\\Twitter_Bot\\PieChart.png')
+plt.savefig('C:\\Users\\pcgou\\eclipse-workspace\\Twitter_Bot\\graphic.png')

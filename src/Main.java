@@ -69,7 +69,7 @@ import twitter4j.StatusUpdate;
 		   Runtime rt = Runtime.getRuntime();
 		   Process pr = rt.exec("python C:\\Users\\pcgou\\eclipse-workspace\\Twitter_Bot\\create_graphic.py " + analyzedUser);
 		   pr.waitFor();
-		   File file = new File("PieChart.png");
+		   File file = new File("graphic.png");
 		   UploadedMedia media = twitter.uploadMedia(file);
 		   long  mediaId = media.getMediaId();
 		   String replyMessage =  "Sentiment analysis complete, " + "@" + statusUser +". " +  "\n \nThis process is automated. If you have any questions please contact me at pcgousseau@gmail.com";
