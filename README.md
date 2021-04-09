@@ -3,4 +3,4 @@ yourStatsBot is a twitter bot that performs a sentiment analysis on a user's twe
 ## Instructions
 * To analyze your own tweets: Mention the bot in any tweet (e.g "@yourStatsBot")  
 * To analyze someone else's tweets: Mention the bot along with the other account (must be public)(e.g "yourStatsBot @realDonaldTrump")
-![image](C:\Users\pcgou\OneDrive\Documents\Projects\Images\JohnHaidtAnalysis.png)
+
